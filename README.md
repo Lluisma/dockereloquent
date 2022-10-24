@@ -57,7 +57,7 @@
 
 The `index.php` page is an example of using *Eloquent ORM* models, showing a list of the contents of `CHARACTER_SETS` table from `information_schema` database (as defined in the `bootstrap.php` file).
 
-You can fina the `CharacterSet` model declared by default in `www/app/Models/` folder, referring to this table.
+You can find the `CharacterSet` model declared by default in `www/app/Models/` folder, referring to this table.
 
 Place your new models in same folder.
 
